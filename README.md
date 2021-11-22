@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AdelsJarlen
+- 👀 I’m interested in GIS
+- 🌱 I’m currently learning Python
+- 💞️ I’m not looking to collaborate on aything yet
+- 📫 TBA 
