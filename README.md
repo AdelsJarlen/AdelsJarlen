@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @AdelsJarlen
-- 👀 I’m interested in GIS
-- 🌱 I’m currently learning Python
-- 💞️ I’m not looking to collaborate on aything yet
-- 📫 TBA 
+# Ola Juul Holm
+----
+Jobber for øyeblikket som vikar i rollene GIS-tekniker, interaksjonsdesigner og utvikler i Oslo Kommune, Bymiljøetaten.
